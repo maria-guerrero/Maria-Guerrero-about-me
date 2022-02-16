@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm María</h1>
 <h3 align="left">I studied audio / video production and I am an illustrator and graphic designer too, but I decided to start studying programming to change of career. I love combining everything I have learned in my years of study and I always say that everything I know has something in common: creativity.</h3>
 
-- 🌱 I’m currently learning **programming in Adalab**
+- 🌱 I learned **programming in Adalab**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React**
 
