@@ -1,4 +1,4 @@
-![banner-github-maria-guerrero](https://user-images.githubusercontent.com/93329410/146695307-a4f829ad-91b5-4d89-ae47-698885f96798.jpg)
+![banner-github-maria-guerrero_](https://user-images.githubusercontent.com/93329410/154346611-956b4891-8a0d-4b63-bdb0-36633a2ceec0.jpg)
 
 <h1 align="left">Hi 👋, I'm María</h1>
 <h3 align="left">I studied audio / video production and I am an illustrator and graphic designer too, but I decided to start studying programming to change of career. I love combining everything I have learned in my years of study and I always say that everything I know has something in common: creativity.</h3>
